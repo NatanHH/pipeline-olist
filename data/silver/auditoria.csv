@@ -1,0 +1,15 @@
+regra,afetados
+pedidos: linhas lidas lote 0,99441
+pedidos: copias identicas lote 0,0
+pedidos: versoes anteriores substituidas,0
+itens: linhas lidas lote 0,112650
+itens: copias identicas lote 0,0
+itens: versoes anteriores substituidas,0
+produtos: linhas lidas lote 0,32951
+produtos: copias identicas lote 0,0
+produtos: versoes anteriores substituidas,0
+itens: precos invalidos,0
+pedidos: datas de compra invalidas,0
+produtos: categoria preenchida,610
+joins: itens acrescentados ou perdidos,0
+escopo: itens descartados,2453
